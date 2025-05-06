@@ -6,12 +6,11 @@ sitemap: false
 permalink: /allnews.html
 ---
 
-<div class="well">
-<h4>News</h4>
+# News
 
-<p>{{ article.date }}<br>{{ article.headline | markdownify}}</p>
-{% endfor %}
-
-<h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html"></a></h4>
-
+{% for article in site.data.news %}
+<div class="news-item">
+  <div class="news-date">{{ article.date }}</div>
+  <div class="news-headline">{{ article.headline }}</div>
 </div>
+{% endfor %}

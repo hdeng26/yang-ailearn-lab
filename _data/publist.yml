@@ -37,7 +37,7 @@
 
   highlight: 3
 
-- title: Features Combined From Hundreds of Midlayers: Hierarchical Networks With Subnetwork Nodes
+- title: "Features Combined From Hundreds of Midlayers: Hierarchical Networks With Subnetwork Nodes"
   image: yang-pami.gif
   description:
     In this paper, we believe that the mixed selectivity of neuron in the top layer encodes distributed information produced from other neurons to offer a significant computational advantage over recognition accuracy. Thus, this paper proposes a hierarchical network framework that the learning behaviors of features combined from hundreds of midlayers. First, a subnetwork neuron, which itself could be constructed by other nodes, is functional as a subspace features extractor. The top layer of a hierarchical network needs subspace features produced by the subnetwork neurons to get rid of factors that are not relevant, but at the same time, to recast the subspace features into a mapping space so that the hierarchical network can be processed to generate more reliable cognition. Second, this paper shows that with noniterative learning strategy, the proposed method has a wider and shallower structure, providing a significant role in generalization performance improvements. Hence, compared with other state-of-the-art methods, multiple channel features with the proposed method could provide a comparable or even better performance, which dramatically boosts the learning speed. Our experimental results show that our platform can provide a much better generalization performance than 55 other state-of-the-art methods.

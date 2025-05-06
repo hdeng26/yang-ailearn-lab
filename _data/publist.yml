@@ -25,7 +25,7 @@
 
   highlight: 1
 
-- title: Context-Enriched Contrastive Loss: Enhancing Presentation of Inherent Sample Connections in Contrastive Learning Framework
+- title: "Context"-Enriched Contrastive Loss: Enhancing Presentation of Inherent Sample Connections in Contrastive Learning Framework"
   image: hd-tmm.gif
   description:
     Contrastive learning has gained popularity and pushes state-of-the-art performance across numerous large-scale benchmarks. In contrastive learning, the contrastive loss function plays a pivotal role in discerning similarities between samples through techniques such as rotation or cropping. However, this learning mechanism can also introduce information distortion from the augmented samples. This is because the trained model may develop a significant overreliance on information from samples with identical labels, while concurrently neglecting positive pairs that originate from the same initial image, especially in expansive datasets. This paper proposes a context-enriched contrastive loss function that concurrently improves learning effectiveness and addresses the information distortion by encompassing two convergence targets. The first component, which is notably sensitive to label contrast, differentiates between features of identical and distinct classes which boosts the contrastive training efficiency. Meanwhile, the second component draws closer the augmented samples from the same source image and distances all other samples, similar to self-supervised learning. We evaluate the proposed approach on image classification tasks, which are among the most widely accepted 8 recognition large-scale benchmark datasets: CIFAR10, CIFAR100, Caltech-101, Caltech-256, ImageNet, BiasedMNIST, UTKFace, and CelebA datasets. The experimental results demonstrate that the proposed method achieves improvements over 16 state-of-the-art contrastive learning methods in terms of both generalization performance and learning convergence speed. Interestingly, our technique stands out in addressing systematic distortion tasks. It demonstrates a 22.9% improvement compared to original contrastive loss functions in the downstream BiasedMNIST dataset, highlighting its promise for more efficient and equitable downstream training.
@@ -49,7 +49,7 @@
 
   highlight: 4
 
-  - title: Extreme Learning Machine With Subnetwork Hidden Nodes for Regression and Classification
+- title: Extreme Learning Machine With Subnetwork Hidden Nodes for Regression and Classification
   image: yang-cyb2016.gif
   description:
     As demonstrated earlier, the learning effectiveness and learning speed of single-hidden-layer feedforward neural networks are in general far slower than required, which has been a major bottleneck for many applications. Huang et al. proposed extreme learning machine (ELM) which improves the training speed by hundreds of times as compared to its predecessor learning techniques. This paper offers an ELM-based learning method that can grow subnetwork hidden nodes by pulling back residual network error to the hidden layer. Furthermore, the proposed method provides a similar or better generalization performance with remarkably fewer hidden nodes as compared to other ELM methods employing huge number of hidden nodes. Thus, the learning speed of the proposed technique is hundred times faster compared to other ELMs as well as to back propagation and support vector machines. The experimental validations for all methods are carried out on 32 data sets.

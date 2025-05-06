@@ -5,15 +5,6 @@
   number_educ: 1
   education1: Reserach Interest - artificial neural networks, image processing, and data analysis
 
-- name: Wandong Zhang
-  photo: wandong.png
-  info: Postdoc, started March 2023
-  email: wzhan893@uwo.ca
-  number_educ: 5
-  education1: Postdoc University of Windsor
-  education2: PhD University of Windsor
-  education3: BSc and MSc Ocean University of China
-  education4: Research Interest - radar image processing, remote signal processing, feature learning and representation, deep neural networks and applications on computer vision
 
 - name: Haojin Deng
   photo: haojin.jpeg

@@ -15,11 +15,10 @@ permalink: /allnews.html
     {{ article.date }}
   </div>
   <div class="news-headline">
-    {{ article.headline | markdownify }}
+    {{ article.headline }}
   </div>
 </div>
 {% endfor %}
 
 <h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h4>
 </div>
-

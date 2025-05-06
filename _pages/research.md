@@ -2,7 +2,7 @@ title: "Yang's AiLearn Lab - Research"
 layout: textlay
 excerpt: "Yang's AiLearn Lab -- Research"
 sitemap: false
-permalink: /research/
+permalink: /research
 ---
 
 # Research

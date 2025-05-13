@@ -26,23 +26,3 @@
   number_educ: 2
   education1: Bachelor in Statistics and Biochemistry at University of Toronto
   education2: Research Interest - machine learning and its use in designing bone tissue engineering scaffolds
-
-
-- name: Oliver Anderson
-  photo: Oliver.jpg
-  duration: In the Yang's AiLearn Lab May 2025 - present
-  info: Summer Undergraduate Student in Software Engineering
-  email: oander@uwo.ca
-  number_educ: 1
-  education1: Research Interest - LLM learning optimization
-
-- name: Mithila Sothynathan
-  photo: Mithila.png
-  duration: In the Yang's AiLearn Lab May 2025 - present
-  info: Summer Undergraduate Student in Software Engineering
-  email: msothyn@uwo.ca
-  number_educ: 2
-  education1: Bachelor of Engineering Science (BESc) in Software Engineering at Western University
-  education2: Research Interest - vision-language models (VLMs), multimodal learning, generative AI
-
-

@@ -77,9 +77,9 @@ Jump to [Faculty](#Faculty-and-PhD-Students), [Master Students](#Master-Students
 
 
 
-## Bachelor Students
+## Master Students
 {% assign number_printed = 0 %}
-{% for member in site.data.bachelor_students %}
+{% for member in site.data.master_students %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -131,9 +131,9 @@ Jump to [Faculty](#Faculty-and-PhD-Students), [Master Students](#Master-Students
 </div>
 {% endif %}
 
-## Master and Bachelor Students
+## Bachelor Students
 {% assign number_printed = 0 %}
-{% for member in site.data.students %}
+{% for member in site.data.bachelor_students %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 

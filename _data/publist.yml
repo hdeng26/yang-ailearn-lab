@@ -62,3 +62,27 @@
     display: IEEE Transactions on Cybernetics (Volume 46, Issue 12, December 2016)
 
   highlight: 1
+
+  - title: Enhancing Residential Real Estate Search with Classification Strategies Using Diffusion and CLIP
+  image: ICCE.png
+  description:
+    The significance of the real estate search engine in the economy necessitates the development of a reliable room image luxury level annotation method that addresses current limitations, including the inability to assess room quality, underutilization of deep network capacities, and the need for more annotated house images. This paper proposes a novel real estate image annotation model, leveraging the diffusion model and contrastive language-image pre-training (CLIP) network, through a multi-stage algorithm. First, the diffusion network is employed as a data augmentation technique to generate additional real estate images for network training. Then, a CLIP model is utilized to categorize images into the kitchen, bathroom, dining room, living room, and foyer. Finally, five CLIP models assess the condition of each room, categorizing it as contemporary and standard. Experimental results on a newly collected real estate image dataset demonstrate that the proposed approach surpasses existing house image classification algorithms.
+  authors:
+    H. Deng, W. Zhang, Y. Yang and E. Nejad
+  link1:
+    url: https://ieeexplore.ieee.org/abstract/document/10444335
+    display: 2024 IEEE International Conference on Consumer Electronics (ICCE)
+
+  highlight: 1
+
+  - title: Agentic AI Workflow for End-to-End Prompt-Based Contextual Virtual Staging
+  image: virtual_staging.png
+  description:
+    Virtual staging has revolutionized the real estate industry by automating the redesign of interior images based on user instructions. This paper introduces an innovative Agentic AI Workflow for end-to-end, prompt-based contextual virtual staging, leveraging multiple specialized AI components. Our framework integrates advanced segmentation models and reinforcement learning-enhanced inpainting models to accurately interpret and execute user instructions, resulting in highly realistic and aesthetically pleasing property visuals. A key innovation is the use of Low-Rank Adaptation (LoRA) to fine-tune the Stable Diffusion model specifically for inpainting tasks. By employing a reinforcement learning technique tailored for diffusion models, we optimize LoRA parameters to maximize aesthetic quality and adherence to user prompts. This agentic approach enables each AI component to independently refine its specialized function while seamlessly collaborating within the workflow, enhancing overall flexibility and user satisfaction. To rigorously evaluate our methodology, we developed a standardized benchmark workflow to assess our proposed method across various categories, including furniture, functional elements, and decor. Experimental results demonstrate that our Agentic AI Workflow significantly outperforms traditional methods, achieving higher aesthetic scores and greater user preference, particularly in furniture and decor, while exhibiting reduced performance variability for consistent and reliable outcomes. Beyond real estate, the versatility of our Agentic AI Workflow extends its applicability to diverse domains such as architecture, e-commerce, and digital content creation. This research highlights the potential of agent-based AI systems to deliver customizable and high-quality visual transformations, paving the way for innovative applications across multiple industries.
+  authors:
+    S. Murray, H. Deng, Y. Yang and E. Nejad
+  link1:
+    url: 
+    display: 2025 IEEE Canadian Conference on Electrical and Computer Engineering (CCECE)
+
+  highlight: 1

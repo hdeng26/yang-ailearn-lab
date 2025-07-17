@@ -9,7 +9,9 @@
   link1:
     url: https://ieeexplore.ieee.org/abstract/document/8718406
     display: IEEE Transactions on Pattern Analysis and Machine Intelligence (Volume 42, Issue 11, May 2019)
-
+  link2:
+    url: https://uwoca-my.sharepoint.com/:f:/g/personal/hdeng26_uwo_ca/EhmriX2awJ5Enqq6Nk68CpUB2VD1hAL6MwED1ZlGmqhs4A?e=YZgzVC
+    display: Code
   highlight: 1
   
 - title: Fast Transfer Learning Method Using Random Layer Freezing and Feature Refinement Strategy
@@ -36,7 +38,9 @@
   link1:
     url: https://ieeexplore.ieee.org/abstract/document/10814085
     display: IEEE Transactions on Multimedia (Volume 27, December 2024)
-
+  link2:
+    url: https://github.com/hdeng26/Contex
+    display: Github Code
   highlight: 1
 
 - title: "Features Combined From Hundreds of Midlayers: Hierarchical Networks With Subnetwork Nodes"
@@ -48,7 +52,9 @@
   link1:
     url: https://ieeexplore.ieee.org/abstract/document/8627989
     display: IEEE Transactions on Neural Networks and Learning Systems (Volume 30, Issue 11, November 2019)
-
+  link2:
+    url: https://www.yiminyang.com/TNNLS_code.htm
+    display: Code
   highlight: 1
 
 - title: Extreme Learning Machine With Subnetwork Hidden Nodes for Regression and Classification

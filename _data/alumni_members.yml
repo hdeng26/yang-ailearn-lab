@@ -17,3 +17,31 @@
   education2: Research Interest - Medical Image Processing, Machine Learning, Artificial Intelligence
   education3:
   education4:
+
+- name: Mithila Sothynathan
+  photo: Mithila.png
+  duration: In the Yang's AiLearn Lab May 2025 - present
+  info: Summer Research Student in Software Engineering
+  email: msothyn@uwo.ca
+  number_educ: 2
+  education1: Bachelor of Engineering Science (BESc) in Software Engineering at Western University
+  education2: Research Interest - vision-language models (VLMs), multimodal learning, generative AI
+
+- name: Dominic Bazina-Grolinger
+  photo: rock.jpg
+  duration: In the Yang's AiLearn Lab May 2024 - August 2025
+  info: Summer Research Student in Software Engineering
+  email: dbazinag@uwo.ca
+  number_educ: 2
+  education1: Bachelor of Engineering Science (BESc) in Software Engineering at Western University
+  education2: Current Master Student in EPFL
+
+- name: James Su
+  photo: rock.jpg
+  duration: In the Yang's AiLearn Lab May 2024 - August 2025
+  info: Summer Research Student in Software Engineering
+  email: tsu32@uwo.ca
+  number_educ: 2
+  education1: Bachelor of Engineering Science (BESc) in Software Engineering at Western University
+  education2: Current Master Student in Univeristy of Toronto
+

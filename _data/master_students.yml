@@ -15,14 +15,14 @@
   info: Master Student, since September 2024
   email: smurr4@uwo.ca
   number_educ: 2
-  education1: Bachelor of Engineering Science (BESc) in Software Engineering at Western University
+  education1: Bachelor of Engineering (BEng) in Software Engineering at Western University
   education2: Research Interest - generative models, model quantization, transfer learning, reinforcement learning
 
-- name: Noah Argaw
-  photo: noah.jpeg
-  duration: Co-supervised Student in the Chemical and Biochemical Engineering
-  info: Master Student in Chemical and Biochemical Engineering
-  email: nargaw@uwo.ca
+- name: Kelvin Zheng
+  photo: rock.jpg
+  duration: In the Yang's AiLearn Lab 2025 - present
+  info: Master Student, since September 2025
+  email: lzhen48@uwo.ca
   number_educ: 2
-  education1: Bachelor in Statistics and Biochemistry at University of Toronto
-  education2: Research Interest - machine learning and its use in designing bone tissue engineering scaffolds
+  education1: Bachelor of Engineering (BEng) in Computer Engineering at Western University
+  education2: Research Interest - transfer learning, generative models, dynamic weight optimization

@@ -32,3 +32,21 @@
   education1: Master, Zhengzhou University
   education2: Research Interest - RNN, dynamic weight optimization, data filtering, LMM application
 
+
+- name: Noah Argaw
+  photo: noah.jpeg
+  duration: Co-supervised Student in the Chemical and Biochemical Engineering
+  info: Doctoral Student in Chemical and Biochemical Engineering
+  email: nargaw@uwo.ca
+  number_educ: 2
+  education1: Bachelor in Statistics and Biochemistry at University of Toronto
+  education2: Research Interest - machine learning and its use in designing bone tissue engineering scaffolds
+
+- name: Saed Moradi
+  photo: rock.jpg
+  duration: Co-supervised Postdoctoral Researcher
+  info: Postdoctoral Researcher in the Department of Oncology at McMaster University
+  email: morads6@mcmaster.ca
+  number_educ: 2
+  education1: Ph.D. in Electronics Engineering in the University of Isfahan
+  education2: Research Interest -computer vision and medical imaging, including medical image analysis, multimodal learning, 3D reconstruction, object detection, and clinical AI applications

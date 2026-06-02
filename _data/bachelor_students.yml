@@ -7,3 +7,16 @@
   number_educ: 1
   education1: Research Interest - LLM learning optimization
 
+- name: Hadi Youssef
+  photo: hadi.jpeg
+  duration: In the Yang's AiLearn Lab May 2026 - present
+  info: Summer Research Student, Software Engineering/Honours Business Administration Dual Degree at Western University
+  number_educ: 1
+  education1: Research Interest - reinforcement learning applications to image generation
+
+- name: Estela Katchen
+  photo: estela.JPG
+  duration: In the Yang's AiLearn Lab May 2026 - present
+  info: Summer Research Student, Mechatronic Systems Engineering + Ivey AEO student at Western University
+  number_educ: 1
+  education1: Research Interest - machine learning, medical image processing, embodied learning for robotic manipulation

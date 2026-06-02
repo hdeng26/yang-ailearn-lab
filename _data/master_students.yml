@@ -26,3 +26,11 @@
   number_educ: 2
   education1: Bachelor of Engineering (BEng) in Computer Engineering at Western University
   education2: Research Interest - transfer learning, generative models, dynamic weight optimization
+
+- name: Tianqi Ni
+  photo: tianqi.jpeg
+  duration: In the Yang's AiLearn Lab 2026 - present
+  info: Master Student, since May 2026
+  number_educ: 2
+  education1: Bachelor of Engineering Science (BESc) in Software Engineering, BA in Honours Business Administration at Western University
+  education2: Research Interest - machine learning, computer vision, medical image processing

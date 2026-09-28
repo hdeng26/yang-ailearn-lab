@@ -40,7 +40,7 @@
   highlight: 1
 
 - title: Low-Light Salient Object Detection by Learning to Highlight the Foreground Objects
-  image: dummy.png
+  image: hdnet_architecture.png
   description:
     This paper presents HDNet, a network for detecting salient objects in low-light images, and introduces SOD-LL, an annotated low-light salient object detection dataset containing 6,000 synthetic and 2,000 real images.
   authors:
